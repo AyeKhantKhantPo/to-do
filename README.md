@@ -18,10 +18,3 @@ npm run dev
 ```
 
 3) Open [http://localhost:3000](http://localhost:3000) with your browser.
-
-## Getting Started with Prisma Database
-
-```bash
-npx prisma generate
-npx prisma migrate dev
-```
